@@ -1,0 +1,16 @@
+!SESSION 2015-04-28 12:57:10.554 -----------------------------------------------
+eclipse.buildId=trunk
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.qnx.tools.ide.bbt.application 1 -1 2015-04-28 12:57:11.429
+!MESSAGE version     1.0.0.v201403261830
+         bbclt       5996f08022cbe95cc4318d59358ae43f99a9ebbd
+         cdtq        4864587e0c256aaf4aec12ca1dfd4339f3ecc846
+         ide         6253d0d5fa329901290a92a42133641bdec50774
+         max-memory  910M
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 2 0 2015-04-28 13:00:01.144
+!MESSAGE Could not remove temporary backup directory (it is safe to manually delete it and its contents): C:\Users\Laptop\AppData\Local\Temp\DefaultProfile_299ff5dfb6c0_a9fe7ba1d0e9
